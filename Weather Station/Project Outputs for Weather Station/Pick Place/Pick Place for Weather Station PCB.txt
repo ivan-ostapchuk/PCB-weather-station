@@ -1,0 +1,40 @@
+Altium Designer Pick and Place Locations
+C:\AD_Projects\Weather Station\Weather Station\Project Outputs for Weather Station\Pick Place\Pick Place for Weather Station PCB.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       09.11.24
+Time:       13:38
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment               Layer    Footprint                           Center-X(mil) Center-Y(mil) Rotation Description                                                                                                        
+C8         "0.1 uF"              TopLayer 1210B104K500CT                      1860.698      603.642       270      "CerCapacitor, 0.1 uF, 10%, X7R, 50 V, 1210 [3225 Metric] Rohs Compliant: Yes"                                     
+J3         "2 PIN MALE HEADER"   TopLayer 2_pin_male_header_smd               1868.110      1062.992      270      "Conn Unshrouded Header HDR 2 POS 2.54mm Solder ST SMD Automotive T/R"                                             
+J1         "DC Barrel Jack"      TopLayer Power_Barrel_Jack                   355.315       1151.575      270      "Power Barrel Connector Jack 2.05mm ID (0.081"), 5.50mm OD (0.217") Surface Mount, Right Angle"                    
+J2         "2x3 male header ISP" TopLayer 2x3_male_header_ISP                 1692.913      251.969       270      "Bs Dr Vt SMT Hdr 2X3 TR-10125394-T0803ALF"                                                                        
+X1         12.MHz                TopLayer ABLS-12.000MHZ-20-B-3-H-T           937.991       374.016       180      "Crystal 12MHz ±25ppm (Tol) ±35ppm (Stability) 20pF FUND 50Ohm 2-Pin HC-49/US SMD T/R"                             
+U4         "LDO Regulator 1.8V"  TopLayer LDO_1.8V                            2053.346      1340.551      0        "Linear Voltage Regulator IC Positive Fixed 1 Output 1.8V 300mA SOT-23-5"                                          
+U1         "Linear V Regulator"  TopLayer LM7805MP/NOPB                       240.157       498.031       270      "1.5-A, 30-V, linear voltage regulator 4-SOT-223 0 to 125"                                                         
+U2         "Pressure Sensor"     TopLayer XDCR_ENS220S-BLGT                   1637.007      975.394       0        "Pressure Sensor 4.35PSI ~ 17.4PSI (30kPa ~ 120kPa) Absolute 24 b 10-LGA"                                          
+U3         "MCU ATMEGA-328P"     TopLayer QFP80P900X900X120-32N               1472.440      655.512       0        "AVR series Microcontroller IC 8-Bit 2MHz 32KB (16K x 16) FLASH 32-TQFP (7x7)"                                     
+SW1        "Tactile Switch SPST" TopLayer Tactile_Switch                      1161.417      1281.496      90       "TL3305A Series SPST 12 V 4.5 x 4.5 mm 260 gf Top Actuated SMT Tactile Switch"                                     
+RT1        "Thermistor 10K"      TopLayer Yageo_1206_SMD_Resistor             2312.007      533.465       180      "Thermistor NTC 10K Ohm 10% 2-Pin 1206 Surface Mount Solder Pad 3510K Blister T/R"                                 
+R1         620R                  TopLayer 1206_WIDE_SMD_Resistor              846.456       1222.441      180      "620 Ohms ±1% 1.5W Chip Resistor Wide 1206 (3216 Metric), 0612 Automotive AEC-Q200, Pulse Withstanding Thick Film" 
+R2         1kR                   TopLayer Yageo_1206_SMD_Resistor             2106.299      1009.603      180      "SMD Chip Resistor, 1 kOhm, ± 1%, 250 mW, 1206 [3216 Metric], Thick Film, General Purpose"                         
+R3         1kR                   TopLayer Yageo_1206_SMD_Resistor             1846.457      862.205       90       "SMD Chip Resistor, 1 kOhm, ± 1%, 250 mW, 1206 [3216 Metric], Thick Film, General Purpose"                         
+R5         10k                   TopLayer Yageo_1206_SMD_Resistor             2204.724      297.244       0        "SMD Chip Resistor, 10 kOhm, 1%, 250 mW, 1206 [3216 Metric], Thick Film, General Purpose"                          
+R4         20kR                  TopLayer Yageo_1206_SMD_Resistor             1358.268      996.063       90       "20 kOhm, ± 1%, 250 mW, SMD Resistor, 1206 [3216 Metric], Thick Film, General Purpose"                             
+LED1       "Green LED IF 5mA"    TopLayer SMD_LED                             882.925       966.535       270      "Side View / 0805 / 2.1 X 1.0 X 0"                                                                                 
+D1         "TVS Protection"      TopLayer Unidirectional_TVS_protection_diode 246.708       761.811       0        "Unidirectional TVS protection. SMAJ Series 10 V 400 W SMT Uni-Directional Transient Voltage Suppressor - SMA"     
+C7         "0.1 uF"              TopLayer 1210B104K500CT                      2283.464      1293.172      0        "CerCapacitor, 0.1 uF, 10%, X7R, 50 V, 1210 [3225 Metric] Rohs Compliant: Yes"                                     
+C6         "0.1 uF"              TopLayer 1210B104K500CT                      1811.023      1335.000      180      "CerCapacitor, 0.1 uF, 10%, X7R, 50 V, 1210 [3225 Metric] Rohs Compliant: Yes"                                     
+C2         0.22uF                TopLayer Ceramic_Cap_0.22uF_1210_Low_density 669.291       789.370       0        "Multilayer Ceramic Capacitors MLCC - SMD/SMT 50V 0.22uF X7R 1210 10%"                                             
+C1         "0.1 uF"              TopLayer 1210B104K500CT                      196.850       212.599       180      "CerCapacitor, 0.1 uF, 10%, X7R, 50 V, 1210 [3225 Metric] Rohs Compliant: Yes"                                     
+C3         "0.1 uF"              TopLayer 1210B104K500CT                      2307.087      956.693       90       "CerCapacitor, 0.1 uF, 10%, X7R, 50 V, 1210 [3225 Metric] Rohs Compliant: Yes"                                     
+C10        30pF                  TopLayer Kyocera_1210_Ceramic_Capacitor      1122.047      139.764       90       "30 pF ±5% 200V Ceramic Capacitor C0G, NP0 1210 (3225 Metric)"                                                     
+C9         30pF                  TopLayer Kyocera_1210_Ceramic_Capacitor      728.346       139.764       90       "30 pF ±5% 200V Ceramic Capacitor C0G, NP0 1210 (3225 Metric)"                                                     
+C5         "0.1 uF"              TopLayer 1210B104K500CT                      1027.559      676.348       0        "CerCapacitor, 0.1 uF, 10%, X7R, 50 V, 1210 [3225 Metric] Rohs Compliant: Yes"                                     
+C4         "0.1 uF"              TopLayer 1210B104K500CT                      1169.291      1005.906      0        "CerCapacitor, 0.1 uF, 10%, X7R, 50 V, 1210 [3225 Metric] Rohs Compliant: Yes"                                     
